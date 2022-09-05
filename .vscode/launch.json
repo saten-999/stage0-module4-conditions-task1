@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch IntegerComparison",
+            "request": "launch",
+            "mainClass": "school.mjc.stage0.conditions.task1.IntegerComparison",
+            "projectName": "conditions"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConditionalTruePrinter",
+            "request": "launch",
+            "mainClass": "school.mjc.stage0.conditions.task1.ConditionalTruePrinter",
+            "projectName": "conditions"
+        },
+        {
+            "name": "Listen for Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9003
+        }
+    ]
+}
